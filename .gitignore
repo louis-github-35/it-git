@@ -1,0 +1,5 @@
+# Penser à terminerce fichier avec une ligne vide
+#ignorer le répertoire cache
+cache/
+# tous les fichiers en .a ignorés
+*.a
