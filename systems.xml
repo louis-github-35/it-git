@@ -2,4 +2,6 @@
 	<os>Ubuntu Linux</os>
 	<os>Windows 10</os>
 	<os>macOs High Sierra</os>
+	<os>Centos 9.2</os>
+	<os>RedHat RHEL6.0</os>
 </systems>
