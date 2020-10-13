@@ -1,3 +1,5 @@
 <systems>
 	<os>Ubuntu Linux</os>
+	<os>Centos 9.2</os>
+	<os>RedHat RHEL6.0</os>
 </systems>
